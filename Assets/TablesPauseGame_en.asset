@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TablesPauseGame_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2eedbf28f6370444a9a90bf35dce439c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 4935045120
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 203090743296
+    m_Localized: Background music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 480820776960
+    m_Localized: Sound effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1769675870208
+    m_Localized: Ring
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

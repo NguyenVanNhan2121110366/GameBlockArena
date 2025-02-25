@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TablesMenu_vi-VN
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi-VN
+  m_SharedData: {fileID: 11400000, guid: 3c7d141f2bc10c643a2fadec4c522bd2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 21582237696
+    m_Localized: "B\u1EAET \u0110\u1EA6U"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7490266124288
+    m_Localized: "Th\u1ED1ng k\xEA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87263667474432
+    m_Localized: "Ph\u1EA3i c\xF3 \xEDt nh\u1EA5t 3 kh\u1ED1i g\u1EA7n nhau , ch\xFAng
+      s\u1EBD h\u1EE3p th\xE0nh kh\u1ED1i c\xF3  gi\xE1 tr\u1ECB cao h\u01A1n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117305776721920
+    m_Localized: "T\xECm \u0111\u1EE7 kh\u1ED1i \u0111\u1EC3 qua c\u1EA5p \u0111\u1ED9
+      ti\u1EBFp theo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118361466261504
+    m_Localized: "N\u1EBFu l\u01B0\u1EE3t ch\u01A1i c\xF2n 0 ho\u1EB7c l\xE0 t\u1EA5t
+      c\u1EA3 c\xE1c \xF4 tr\u1ED1ng b\u1ECB \u0111\u1EA7y tr\xF2 ch\u01A1i s\u1EBD
+      k\u1EBFt th\xFAc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121839127285760
+    m_Localized: "Gi\u1EEF v\xE0 k\xE9o"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

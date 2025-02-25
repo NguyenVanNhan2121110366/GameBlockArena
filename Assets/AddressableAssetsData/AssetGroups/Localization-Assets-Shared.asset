@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8cb631e5b05071d46b98f1e4bf132a5a
+  m_SerializeEntries:
+  - m_GUID: 3c7d141f2bc10c643a2fadec4c522bd2
+    m_Address: Assets/TablesHome/New Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: b14240657b95f9a4f893dc87cc004c04
+    m_Address: Assets/TablesGame Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 5e985c20dcb747849b263a2a2d133bef
+    m_Address: Assets/TablesGameOver Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 2eedbf28f6370444a9a90bf35dce439c
+    m_Address: Assets/TablesPauseGame Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: e7cfe7f048432bd48a75c70249982c7d
+    m_Address: Assets/TablesAttention Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 9427d74ae8db44843b455d3885f9248d
+    m_Address: Assets/TablesUIRestartGame Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 5769131942a60cd48940ad971869689d
+    m_Address: Assets/WinGame Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 783716e111216564abd9c877154bd38a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 79e0bd66ce9dc79459559bc8514db5a1, type: 2}
+    - {fileID: 11400000, guid: deeb124719dc29647afe153be537bde0, type: 2}

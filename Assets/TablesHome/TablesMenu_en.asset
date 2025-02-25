@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TablesMenu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3c7d141f2bc10c643a2fadec4c522bd2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 21582237696
+    m_Localized: START
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7490266124288
+    m_Localized: Statistics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87263667474432
+    m_Localized: There must be at least 3 blocks close together, they will combine
+      to form a block of higher value.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117305776721920
+    m_Localized: Find enough blocks to pass to the next level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118361466261504
+    m_Localized: If the turn is 0 or all spaces are full, the game will end.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121839127285760
+    m_Localized: Hold and pull
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

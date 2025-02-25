@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Chinese (Simplified) (zh-Hans)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Chinese (Simplified) (zh-Hans)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7e5428edf8b3a0c4eb6f42cd941d2cd6
+  m_SerializeEntries:
+  - m_GUID: 217ac9794a0767c4abe6877f5708ce08
+    m_Address: TablesMenu_zh-Hans
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh-Hans
+    - Preload
+  - m_GUID: 557bda316bb261c42a1bdc972f8ae045
+    m_Address: TablesGameWin_zh-Hans
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh-Hans
+    - Preload
+  - m_GUID: 06d45e3e987487644a91e93c29ffd27b
+    m_Address: TablesGameOver_zh-Hans
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh-Hans
+    - Preload
+  - m_GUID: 2677b846efef7cc4596942d63be02175
+    m_Address: TablesPauseGame_zh-Hans
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh-Hans
+    - Preload
+  - m_GUID: be37abadc5b37c5489c1b88034aecf70
+    m_Address: TablesAttention_zh-Hans
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh-Hans
+    - Preload
+  - m_GUID: e5afff8a1ca56444888b8f1e6f6a3998
+    m_Address: TablesUIRestartGame_zh-Hans
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh-Hans
+    - Preload
+  - m_GUID: 148861b1119f9a240be38daf66582593
+    m_Address: WinGame_zh-Hans
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh-Hans
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 783716e111216564abd9c877154bd38a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84f9f178d21f9884581440446f0ec7ef, type: 2}
+    - {fileID: 11400000, guid: f4c6ba6ad183a82499375f60f2a4e8e7, type: 2}

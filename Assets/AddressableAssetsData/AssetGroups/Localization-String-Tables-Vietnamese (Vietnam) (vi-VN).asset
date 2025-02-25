@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Vietnamese (Vietnam) (vi-VN)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Vietnamese (Vietnam) (vi-VN)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f17b19d8693311f4d8611eb5420fcdc4
+  m_SerializeEntries:
+  - m_GUID: f9188af290573074391d47f9c3f73b9c
+    m_Address: TablesMenu_vi-VN
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi-VN
+    - Preload
+  - m_GUID: 3dfcc063e6346ec49908a775e79ab2af
+    m_Address: TablesGameWin_vi-VN
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi-VN
+    - Preload
+  - m_GUID: 7823bd4fb25be194290acaabd0b7f9af
+    m_Address: TablesGameOver_vi-VN
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi-VN
+    - Preload
+  - m_GUID: 6b269b9bd5bc80345ac75105f78d8783
+    m_Address: TablesPauseGame_vi-VN
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi-VN
+    - Preload
+  - m_GUID: 502cc3193b29ed94ab39519b2ff60aaf
+    m_Address: TablesAttention_vi-VN
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi-VN
+    - Preload
+  - m_GUID: baaca173996d1304e9c2aebb0ecbb69e
+    m_Address: TablesUIRestartGame_vi-VN
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi-VN
+    - Preload
+  - m_GUID: 0502f325d1cc3c042890973dc16af156
+    m_Address: WinGame_vi-VN
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi-VN
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 783716e111216564abd9c877154bd38a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 31b4d07fd0f880349b8d1016f2433180, type: 2}
+    - {fileID: 11400000, guid: 017aaf3602e01ce41b26135b64901eba, type: 2}
